@@ -1,4 +1,4 @@
-<?
+<?php
 
 function set_active_tab()
 {

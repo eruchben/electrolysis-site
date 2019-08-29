@@ -2,7 +2,14 @@
         <!-- Footer -->
         <footer class="py-5" style="background:<?=$main_color;?>">
             <div class="container">
-                <p class="m-0 text-center" style="color: #0d47a1 ">&copy; &nbsp;MyElectrolysisClinic <?=date('Y')?></p>
+                <p class="m-0 text-center" style="color: #0d47a1 ">
+                    <span>
+                        &copy; &nbsp;ElectrolysisBySimcha <?=date('Y')?>
+                    </span>
+                    <span style="margin-left: 10px">
+                        <a target="_blank" href="https://www.facebook.com/theElectrolysisClinic/" ><i class="fab fa-facebook-square fa-lg"></i></a>
+                    </span>
+                </p>
             </div>
             <!-- /.container --m
         </footer>

@@ -1,12 +1,12 @@
-<?
+<?php
 $this_page = 'about';
 require_once 'header.php';
 ?>
-<div class=" container about_me_section">
+<div class=" about_me_section">
     
     <div class="about-me-left">
         <div class="about-me-img">
-            <img src="assets/img/about-me1.jpg" class="rounded-circle" height="180" width="230">
+            <img src="assets/img/about-me1.jpg" class="rounded-circle" height="200" width="220">
         </div>
     </div>
     <div class="border-left about-me-right">

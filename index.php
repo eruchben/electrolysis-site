@@ -1,4 +1,4 @@
-<?
+<?php
 $this_page = 'home';
 require_once 'header.php';
 require_once 'main_slider.php';
@@ -51,6 +51,6 @@ require_once 'main_slider.php';
         
     </section>
 </div>
-<? require_once 'footer.php'?>
+<?php require_once 'footer.php'?>
 
 

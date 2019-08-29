@@ -1,11 +1,9 @@
-<?
+<?php
 $this_page = $_GET['book'] ? 'book' : 'contact';
 require_once 'header.php';
 
 $header = 'Contact Us';
-?>
 
-<?
 if($_POST)
 {
     $data = $_POST;
@@ -74,4 +72,4 @@ if($_POST)
     </div>
   </div>
 
-<? require_once 'footer.php'?>
+<?php require_once 'footer.php'?>

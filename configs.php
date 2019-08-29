@@ -1,5 +1,6 @@
 <?
-require_once 'classes/DB.php';
+// require_once 'classes/DB.php';
+const BASE_PATH = '/electrolysis-site/';
 
 //color configs
 $main_color = "#6ccfe6";
