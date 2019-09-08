@@ -4,7 +4,7 @@
             <div class="container">
                 <p class="m-0 text-center" style="color: #0d47a1 ">
                     <span>
-                        &copy; &nbsp;ElectrolysisBySimcha <?=date('Y')?>
+                        &copy; &nbsp;ElectrolysisBySimcha <?='2014 -'. date('Y')?>
                     </span>
                     <span style="margin-left: 10px">
                         <a target="_blank" href="https://www.facebook.com/theElectrolysisClinic/" ><i class="fab fa-facebook-square fa-lg"></i></a>
@@ -46,7 +46,7 @@
                         el: '.swiper-pagination',
                         clickable: true
                     },
-                    speed: 3500,
+                    speed: 4500,
                     autoplay: {
                         delay: 3000,
                     }

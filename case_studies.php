@@ -11,7 +11,7 @@ $images = $_GET['admin'] ? glob($directory . "/*.JPG") : [];
 ?>
 
 <?foreach ($images as $image):?>
-<img src="<?=$image?>" height="100">
+<img src="<?=$image?>" height="200">
 <?$pos = strrpos($image, '/');
 echo substr($image, $pos+1)?>
 <hr>

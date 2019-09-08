@@ -19,6 +19,7 @@ require_once 'configs.php';
     <link href='https://fonts.googleapis.com/css?family=Allura' rel='stylesheet'>
     <link href='https://fonts.googleapis.com/css?family=Montserrat' rel='stylesheet'>
     <link href='https://fonts.googleapis.com/css?family=Sacramento' rel='stylesheet'>
+    <link href='https://fonts.googleapis.com/css?family=Caveat' rel='stylesheet'>
     
     <!-- Bootstrap core CSS -->
     <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">

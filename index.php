@@ -5,16 +5,28 @@ require_once 'main_slider.php';
 ?>
 <div class="container" style="margin-top: 30px;" >
     <div class="middle-section">
-        <div class="" style="padding: 0px 80px;">
+        <div class="" style="padding: 0px 80px; text-align:justify; margin-bottom: 30px">
+            <h2>
+                Achieve flawless, smooth, hair-free skin with electrolysis
+            </h2>
+
             <p>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Proin gravida hendrerit lectus a. Condimentum mattis pellentesque id nibh tortor id aliquet. Nunc faucibus a pellentesque sit amet porttitor. 
-                <p>Condimentum mattis pellentesque id nibh tortor id. Cursus euismod quis viverra nibh. Odio facilisis mauris sit amet. Malesuada pellentesque elit eget gravida cum. Mollis aliquam ut porttitor leo a diam. Sed vulputate mi sit amet. Ultrices eros in cursus turpis massa tincidunt. Sit amet justo donec enim diam vulputate ut pharetra.
+                <p>
+                    Unwanted hair is a common problem affecting most women to varying degrees throughout their lives and prompting the use of various temporary methods of hair reduction or hair management systems. 
+                </p>
+                <p>
+                    However electrolysis is a safe, effective, progressive and permanent method of removing unwanted hair. Indeed it is the only method approved as <b>permanent hair removal</b> by the American FDA and the British Medical Association.
+                </p>
+                <p>
+                    We treat <b><u>all</u></b> hair and skin types. With the choice of Galvanic Multi-Needle, Diathermy and Blend there is something to suit all. Treatment is 'tailor made' to suit YOU.
+                </p>
+                <p>
+                    If you haven't tried electrolysis for a while give it another chance - <i>Simcha will give you the results you always dreamed of!</i>
+                </p>
+                <p>
+                    Call Simcha NOW to finally get that <b>smooth, hair-free</b> skin you always wished for...
                 </p>
             </p>       
-            <p>
-                Mi sit amet mauris commodo quis imperdiet. Mauris cursus mattis molestie a iaculis. Senectus et netus et malesuada fames ac turpis egestas integer. Integer eget aliquet nibh praesent. Aliquam malesuada bibendum arcu vitae elementum curabitur. Tristique et egestas quis ipsum suspendisse. </p>
-                <p>Habitant morbi tristique senectus et netus. Quis risus sed vulputate odio ut enim blandit volutpat maecenas. At elementum eu facilisis sed odio morbi. Ultrices tincidunt arcu non sodales neque.
-            </p>
         </div>
     
         <div class="testimonial-section">
@@ -47,9 +59,6 @@ require_once 'main_slider.php';
     
     </div>
 
-    <section>
-        
-    </section>
 </div>
 <?php require_once 'footer.php'?>
 

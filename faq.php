@@ -9,13 +9,13 @@ require_once 'header.php';
         <p>What is Electrolysis?</p>
     </div>
     <div class="answer">
-        <p>Electrolysis was first invented in 1865 and is a proven, effective and totally safe method of permanent hair removal. It is equally beneficial as a stand alone treatment or as part of a programme of support with hair management systems such as IPL or Laser. Each individual hair requires treatment a number of times, so results take time, however it remains the ONLY PERMANENT method of hair removal. With 3 different methods available there is something to suit everyone.</p>
+        <p>Electrolysis was first invented in 1875 and is a proven, effective and totally safe method of permanent hair removal. It is equally beneficial as a stand alone treatment or as part of a programme of support with hair management systems such as IPL or Laser. Each individual hair requires treatment a number of times, so results take time, however it remains the ONLY PERMANENT method of hair removal. With 3 different methods available there is something to suit everyone.</p>
     </div>
     <div class="question">
         <p>How does the treatment work?</p>
     </div>
     <div class="answer">
-        <p>Electrolysis is a progressive treatment meaning that the hair will grow back but will get weaker throughout the course of treatments. During treatment a disposable probe will be introduced into the base of the hair follicle, you will not feel any discomfort. Heat or/and current is then released into the follicle to cut off the blood supply to the hair and to damage any potential for hair growth.. The hair is then removed. As soon as the hair grows through the skin the process is repeated. Eventually the hair will stop growing.</p>
+        <p>Electrolysis is a progressive treatment meaning that the hair will grow back but will get weaker throughout the course of treatments. During treatment a disposable probe will be introduced into the base of the hair follicle, you will not feel any discomfort. Heat or/and current is then released into the follicle to cut off the blood supply to the hair and to damage any potential for hair growth. The hair is then removed. As soon as the hair grows through the skin the process is repeated. Eventually the hair will stop growing.</p>
     </div>
     <div class="question">
         <p>Is the treatment painful?</p>
