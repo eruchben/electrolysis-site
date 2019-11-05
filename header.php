@@ -73,7 +73,7 @@ require_once 'configs.php';
         <div class="collapse navbar-collapse justify-content-end" id="navbarResponsive">
             <ul class="navbar-nav reg-navs">
             <li class="nav-item">
-                    <a class="nav-link <?=$this_page=='home'?'active-nav':''?>" href="<?=BASE_PATH?>">Home</a>
+                    <a class="nav-link <?=$this_page=='home'?'active-nav':''?>" href="<?=BASE_PATH?>index.php">Home</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link <?=$this_page=='about'?'active-nav':''?>" href="<?=BASE_PATH?>about_me.php">About Us</a>
