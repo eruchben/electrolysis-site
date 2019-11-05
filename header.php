@@ -78,7 +78,7 @@ require_once 'configs.php';
                     <a class="nav-link <?=$this_page=='home'?'active-nav':''?>" href="<?=BASE_PATH?>index.php">Home</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link <?=$this_page=='about'?'active-nav':''?>" href="<?=BASE_PATH?>about_me.php">About Us</a>
+                    <a class="nav-link <?=$this_page=='about'?'active-nav':''?>" href="<?=BASE_PATH?>about_us.php">About Us</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link <?=$this_page=='faq'?'active-nav':''?>" href="<?=BASE_PATH?>faq.php">Electrolysis FAQ</a>

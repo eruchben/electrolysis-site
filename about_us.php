@@ -14,7 +14,7 @@ require_once 'header.php';
             Simcha Erlich C.E. is a fully U.K. qualified and licensed electrolysist with a wealth of knowledge and experience in the services offered.
         </p>    
         <p>
-            Simcha is based at a registered/licensed clinic in Ramat Beit Shemesh, offering all electrolysis treatments. 
+            Simcha is based at a registered clinic in Ramat Beit Shemesh, offering all electrolysis treatments. 
         </p>
         <p>
             All treatments are private, personal and effective, in a clinical environment. Successfully and safely treating clients with electrolysis is a skill which requires nurturing, diligence and dedication. 

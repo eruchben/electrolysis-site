@@ -274,7 +274,10 @@ body {
     transform: scale(1.05);
     transition-duration: 0.2s;
 }
-
+/* lightbox */
+.fancybox-content {
+    max-width: 750px !important;
+}
 
 @media only screen and (max-width: 950px) {
     .contact-us-form {
