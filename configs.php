@@ -6,7 +6,7 @@ const BASE_PATH = '/electrolysis-site/';
 $main_color = "#6ccfe6";
 $secondary_color = "#078faf";
 
-$phone_number = "058-502-0511";
+$phone_number = "058-502-0510";
 $email = "electrolysisbysimcha@gmail.com";
 $google_maps_link = "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3394.0737900643535!2d34.99710011547883!3d31.713879244733697!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1502c37764eaf98f%3A0xfa87353be661db87!2sNachal+Dolev%2C+Beit+Shemesh!5e0!3m2!1sen!2sil!4v1565190219964!5m2!1sen!2sil";
 

@@ -14,11 +14,6 @@ $images = $_GET['admin'] ? glob($directory . "/*.JPG") : [];
     <h2>Coming Soon...</h2>
 </section>
 
-<div>
-    <img src="">
-</div>
-
-
 <?foreach ($images as $image):?>
     <img src="<?=$image?>" height="200">
     <?$pos = strrpos($image, '/');

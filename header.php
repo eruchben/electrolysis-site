@@ -13,6 +13,8 @@ require_once 'configs.php';
     <meta name="author" content="">
 
     <title>My Electrolysis Clinic</title>
+    <link rel="shortcut icon" type="image/png" href="assets/img/favicon1.png"/>
+
 
     <!-- Google Fonts -->
     <link href='https://fonts.googleapis.com/css?family=Quattrocento' rel='stylesheet'>
@@ -50,7 +52,7 @@ require_once 'configs.php';
 
 <div class="header-container">
     <div class="header-left">
-        <a href="<?=BASE_PATH?>">
+        <a href="<?=BASE_PATH?>index.php">
             <img src="assets/img/electrolysis_logo_with_name.jpg" height="150" width="250">
         </a>
     </div>

@@ -6,12 +6,18 @@
                     <span>
                         &copy; &nbsp;ElectrolysisBySimcha <?='2014 -'. date('Y')?>
                     </span>
-                    <span style="margin-left: 10px">
+                    &nbsp;|&nbsp;
+                    <span>
                         <a target="_blank" href="https://www.facebook.com/theElectrolysisClinic/" ><i class="fab fa-facebook-square fa-lg"></i></a>
                     </span>
+                    &nbsp;|&nbsp;
+                    <span><a data-fancybox data-src="#hidden-content_privacy" href="javascript:;">Privacy Policy</a></span>
                 </p>
             </div>
-            <!-- /.container --m
+
+            <div style="display: none;" id="hidden-content_privacy">
+                <?require_once('privacy_policy.php')?>
+            </div>
         </footer>
 
         <!-- Bootstrap core JavaScript -->

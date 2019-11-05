@@ -14,9 +14,6 @@
             </div>
         </div>
         <div class="swiper-slide">
-            <img class="slide-img" width="100%" src="assets/img/pics/setting_up1.jpg" style="">
-        </div>
-        <div class="swiper-slide">
             <img class="slide-img" width="100%" src="assets/img/pics/closeup2.jpg" style="">
         </div>
         <div class="swiper-slide">
@@ -29,9 +26,6 @@
                     Any skin color. Any hair type. Anyone.
                 </span>
             </div>
-        </div>
-        <div class="swiper-slide">
-            <img class="slide-img" width="100%" src="assets/img/pics/mirror1.jpg" style="">
         </div>
     </div>
 </div>
