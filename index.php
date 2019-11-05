@@ -5,7 +5,7 @@ require_once 'main_slider.php';
 ?>
 <div class="container" style="margin-top: 30px;" >
     <div class="middle-section">
-        <div class="" style="padding: 0px 80px; text-align:justify; margin-bottom: 30px">
+        <div class="home-info">
             <h2>
                 Achieve flawless, smooth, hair-free skin with electrolysis
             </h2>
@@ -53,7 +53,7 @@ require_once 'main_slider.php';
             </div>
 
             <div class="testimonial-button">
-                <a class="btn btn-primary" href="/testimonials.php" role="button">See All Testimonials</a>
+                <a class="btn btn-primary" href="<?=BASE_PATH?>/testimonials.php" role="button">See All Testimonials</a>
             </div>
         </div>
     

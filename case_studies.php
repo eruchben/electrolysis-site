@@ -10,13 +10,22 @@ $directory = "assets/img/client_pics";
 $images = $_GET['admin'] ? glob($directory . "/*.JPG") : [];
 ?>
 
-<?foreach ($images as $image):?>
-<img src="<?=$image?>" height="200">
-<?$pos = strrpos($image, '/');
-echo substr($image, $pos+1)?>
-<hr>
-<?endforeach;?>
+<section style='margin:auto'>
+    <h2>Coming Soon...</h2>
+</section>
 
+<div>
+    <img src="">
+</div>
+
+
+<?foreach ($images as $image):?>
+    <img src="<?=$image?>" height="200">
+    <?$pos = strrpos($image, '/');
+    echo substr($image, $pos+1)?>
+    <hr>
+<?endforeach;?>
+<!--    
 <?foreach ($arr as $author => $story):?>
     <div style="display: none;" id="hidden-content_<?=$author?>">
         <h2>Hello. This is <?=$story?>'s Story.</h2>
@@ -30,5 +39,5 @@ echo substr($image, $pos+1)?>
             <?=$story?>'s Story
         </a>    
     <?endforeach;?>
-</section>
+</section> -->
 <?require_once 'footer.php'?>
