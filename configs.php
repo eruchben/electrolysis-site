@@ -56,6 +56,11 @@ $testimonials = [
             I am now basically at the end of my treatment and I can tell you with a full happy and excited heart that it has changed my life.
             I don\'t need to look in the mirror. My tweezers got lost somewhere ages ago and I feel amazing. 
             There is only one regret I have - and that is that I didn\'t do this years ago.
+        </p>',
+        
+    'שירה ר' => '
+        <p style="text-align:right">
+            לפני שהגעתי לשמחה בדקתי אפשרויות של הסרת שיער בפנים, והם לא הבטוחו הברת שיער מהירה ובטוחה. אז הגעתי לשמחה במצב של שיער מרובה וכהה בכל הפנים. והיפתעתי לטובה, כבר מהטיפולים הראשונים ראיתי שיפור עצום, הכל נעשה במהירות ובעדינות. הפנים נהפכו לחלקות ונעימות למראה, וכל הסובבים היפתעו מאוד. אני ממלצה בחום, בגלל האוירה הנעימה, היעילות, המהירות והמקצועיות
         </p>'
 ];
 
