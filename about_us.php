@@ -23,7 +23,7 @@ require_once 'header.php';
             It is my belief that my customers' needs are of the utmost importance and I am committed to meeting those needs. As a result, a high percentage of my client base is from repeat clients and referrals.
         </p>
         <p>
-            I would welcome the opportunity to earn your trust and deliver you the best service in the industry.'
+            I would welcome the opportunity to earn your trust and deliver you the best service in the industry.
         </p>
         <p>
             Please contact me if you have any questions on the services that I offer. I look forward to hearing from you.

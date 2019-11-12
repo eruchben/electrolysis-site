@@ -24,7 +24,7 @@ require_once 'main_slider.php';
                     If you haven't tried electrolysis for a while give it another chance - <i>Simcha will give you the results you always dreamed of!</i>
                 </p>
                 <p>
-                    Call Simcha NOW to finally get that <b>smooth, hair-free</b> skin you always wished for...
+                    Call Simcha NOW on <?=$phone_number?> to finally get that <b>smooth, hair-free</b> skin you always wished for...
                 </p>
             </p>       
         </div>
@@ -43,7 +43,7 @@ require_once 'main_slider.php';
                                 <div style="font-size: 16px;min-height:250px;">
                                     <i class="fas fa-quote-left"></i>
                                     <?=$testimonial.$ellipses?>
-                                    <div style="text-align:right;"><?=ucwords($author)?></div>
+                                    <div class="testimonial-author"><?=ucwords($author)?></div>
                                 </div>
                             </div>
                         <?endforeach;?>

@@ -74,24 +74,11 @@ require_once 'configs.php';
     <div class="container">
         <div class="collapse navbar-collapse justify-content-end" id="navbarResponsive">
             <ul class="navbar-nav reg-navs">
-            <li class="nav-item">
-                    <a class="nav-link <?=$this_page=='home'?'active-nav':''?>" href="<?=BASE_PATH?>index.php">Home</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link <?=$this_page=='about'?'active-nav':''?>" href="<?=BASE_PATH?>about_us.php">About Us</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link <?=$this_page=='faq'?'active-nav':''?>" href="<?=BASE_PATH?>faq.php">Electrolysis FAQ</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link <?=$this_page==''?'active-nav':'case_studies'?>" href="<?=BASE_PATH?>case_studies.php">Gallery & Case Studies</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link <?=$this_page=='testimonials'?'active-nav':''?>" href="<?=BASE_PATH?>testimonials.php">Testimonials</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link <?=$this_page=='contact'?'active-nav':''?>" href="<?=BASE_PATH?>contact_us.php">Contact</a>
-                </li>
+                <?foreach($header_links as $key => $data):?>
+                    <li class="nav-item">
+                        <a class="nav-link <?=$this_page==$key?'active-nav':''?>" href="<?=BASE_PATH.$data['link']?>"><?=$data['display_name']?></a>
+                    </li>    
+                <?endforeach;?>
             </ul>
             <ul class="navbar-nav ml-auto grow" style="background: #1565c0">
                 <li class="nav-item">

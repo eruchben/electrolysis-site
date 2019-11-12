@@ -36,7 +36,7 @@ require_once 'header.php';
         <p>Following the treatment it is normal for the skin to look pink and feel warm and sensitive. This could last for 24 hours and it is important to follow the aftercare advice given.</p>
     </div>
     <div class="question">
-        <p>What can i do with the hairs if i can't make the appointment?</p>
+        <p>What can I do with the hairs if I can't make the appointment?</p>
     </div>
     <div class="answer">
         <p>Following the treatment plan is important to obtain the desired results. Do not wax, tweeze or bleach the hairs between treatments. If necessary, trim any hair growth with small sharp scissors.</p>

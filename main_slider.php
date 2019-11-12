@@ -8,9 +8,7 @@
         </div>
         <div class="swiper-slide">
             <div class="slide-img text">
-                <span>
-                    Electrolysis is the only medically approved form of permanent hair removal, period.
-                </span>
+                Electrolysis is the only medically approved form of permanent hair removal. Period.
             </div>
         </div>
         <div class="swiper-slide">
@@ -21,10 +19,8 @@
         </div>
         <div class="swiper-slide" >
             <div class="slide-img text">
-                <span>
-                    Electrolysis is suitable for anyone.
-                    Any skin color. Any hair type. Anyone.
-                </span>
+                Electrolysis is suitable for anyone.<br>
+                Any skin color. Any hair type. Anyone.
             </div>
         </div>
     </div>

@@ -11,7 +11,7 @@
                         <a target="_blank" href="https://www.facebook.com/theElectrolysisClinic/" ><i class="fab fa-facebook-square fa-lg"></i></a>
                     </span>
                     &nbsp;|&nbsp;
-                    <span><a data-fancybox data-src="#hidden-content_privacy" href="javascript:;">Privacy Policy</a></span>
+                    <span class="privacy-policy"><a data-fancybox data-src="#hidden-content_privacy" href="javascript:;">Privacy Policy</a></span>
                 </p>
             </div>
 
